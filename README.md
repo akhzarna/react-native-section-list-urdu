@@ -1,5 +1,5 @@
 # SectionList
-React-Native Section List in URDU (اردو)
+Demo React-Native Section List in URDU (اردو)
 Section List For iOS
 
 
